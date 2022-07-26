@@ -1,0 +1,30 @@
+{
+  "name": "notesfrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theoafactor/CodePlate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theoafactor/CodePlate/issues"
+  },
+  "homepage": "https://github.com/theoafactor/CodePlate#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "4.6",
+    "ckeditor": "^4.12.1",
+    "ckeditor4": "^4.19.1",
+    "jquery": "^3.6.0"
+  }
+}
